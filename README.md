@@ -114,11 +114,11 @@ def get_email_content(first_name):
 
 The script sends a single standardized message:
 
-- **Subject**: "🎟️ LAST CALL — Lock in Your Ticket for Cash Cobain X DJ Tunez at AfroTech!"
+- **Subject**: "🎟️ LAST CALL — Lock in Your Ticket for Odyssey!"
 - **Content**: 
   - Personalized greeting using first name
   - Event details (date, time, location)
-  - Featured artists (Cash Cobain & DJ Tunez)
+  - Featured artists (Odeal)
   - Call-to-action button for ticket purchase
   - Event flyer image
 
@@ -308,4 +308,5 @@ For issues:
 
 **Part of Afro-Express Email Campaign System** 🎉
 - `testemail.py` → Segmented customers
+
 - `email_AT.py` → General attendees (this file)
