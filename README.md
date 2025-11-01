@@ -1,4 +1,4 @@
-# 📧 Email Campaign for General Event Attendees (email_AT.py)
+# 📧 Email Automation (email_AT.py)
 
 A Python script for sending promotional emails to general event attendees who haven't been segmented into behavioral clusters.
 
@@ -310,3 +310,4 @@ For issues:
 - `testemail.py` → Segmented customers
 
 - `email_AT.py` → General attendees (this file)
+
